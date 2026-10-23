@@ -1,0 +1,12 @@
+{
+  "source_urls": [
+    "https://fred.stlouisfed.org/series/DEXUSEU",
+    "https://fred.stlouisfed.org/series/DEXUSUK",
+    "https://fred.stlouisfed.org/series/DEXJPUS"
+  ],
+  "download_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXUSEU,DEXUSUK,DEXJPUS&cosd=2020-01-01&coed=2026-10-13",
+  "retrieved_utc": "2026-10-14T00:46:00Z",
+  "retrieval_time_precision": "approximate minute",
+  "sha256": "3f0a285f000b03bc24e3159b2e3c947dac37df513dafcd03444cf1e0402a24cc",
+  "holdings": "Hypothetical fixed positive cash balances: EUR 10m, GBP 5m, JPY 1bn"
+}
