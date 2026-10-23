@@ -1,0 +1,18 @@
+{
+  "requested_start": "2020-01-01",
+  "requested_end": "2026-10-13",
+  "source_rows_in_period": 1768,
+  "complete_common_dates": 1694,
+  "excluded_dates": 74,
+  "missing_by_series": {
+    "DEXUSEU": 74,
+    "DEXUSUK": 74,
+    "DEXJPUS": 74
+  },
+  "duplicate_dates": 0,
+  "first_complete_date": "2020-01-02",
+  "last_complete_date": "2026-10-09",
+  "source_sha256": "3f0a285f000b03bc24e3159b2e3c947dac37df513dafcd03444cf1e0402a24cc",
+  "run_utc": "2026-10-14T00:50:53.731160+00:00",
+  "sql_python_reconciliation": "PASS: all normalized dates and all nine monitor rows"
+}
